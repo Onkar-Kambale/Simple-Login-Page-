@@ -24,9 +24,13 @@ https://onkar-kambale.github.io/Simple-Login-Page-/
 ## 📁 Project Structure
 
 login-signup-form/
+
 ├── index.html # Main HTML file
+
 ├── style.css # All styles with animations and layout
+
 ├── script.js # Form logic, toggling, and validation
+
 └── README.md # Project documentation
 
 ---
